@@ -8,32 +8,23 @@ seo:
   name: CSE 210
 ---
 
-# Just the Class
+# Principles of Software Engineering
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+CSE 210 is a first course in software engineering. Relative to some other CSE courses, it is unusual:
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+* The course emphasizes *group* work: half your grade will come from your contribution to your group, rather than individual work. You may do *different* work from other people in the class, and that's okay! The goal is for you to serve your group as effectively as possible.
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+* The group work will be not be graded primarily on the basis of your technical accomplishments (although that will be a factor). Instead, the emphasis will be on using the techniques presented in class to further the creation of software that benefits users.
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+* In some classes, spending large amounts of extra time can benefit projects. However, software engineering is about *predictability*. A software team that works 12-hour days for a period of time can ship great software once --- and then disband due to burnout, never to ship software again. We will ask you to budget and report on your group work time. More is not necessarily better. Of course, less is not better either!
 
-## Getting Started
+Some students may have significant prior experience in software engineering. If this is the case for you, I invite you to *both* leverage your past experience *and* use the class as an opportunity to try out new methods.
 
-Getting started with Just the Class is simple.
+This is my first time teaching this course, and I have made significant changes compared to other versions of the course. I ask for your patience and flexibility as I adapt the course design during the quarter. I reserve the right to make changes --- both to content and to grading policy --- to make the course work best for everyone. I encourage you to give feedback to me or the TAs throughout the quarter so we can make the course a great learning environment for everyone.
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+## Learning objectives
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
-
-### Local development environment
-
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+Upon completion of this course, students will be able to:
+1. Work effectively in a team that uses an Agile development process.
+2. Design and document software systems according to stakeholder needs.
+3. Implement and debug complex software systems.

@@ -12,7 +12,9 @@ February 1
 
 February 3
 : Code Review
-  : **Homework**{:.label .label-yellow} HCI **Project**{:.label .label-red} Vision document
+  : **Homework**{:.label .label-yellow} HCI 
+    
+    **Project**{:.label .label-red} Vision document
 
 
 
