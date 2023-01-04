@@ -17,8 +17,8 @@ title: CSE 210
 tagline: Principles of Software Engineering
 description: A graduate course on the practice of software engineering.
 author: Michael Coblenz
-baseurl: '/classes/wi23/cse210-a' # the subpath of your site, e.g. /blog
-url: 'https://cseweb.ucsd.edu/' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/CSE210' # the subpath of your site, e.g. /blog
+url: 'https://mcoblenz.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
