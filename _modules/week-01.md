@@ -1,23 +1,17 @@
 ---
-title: Introduction to Java
+title: Introduction and Process
 ---
+ 
+January 9
+: Introduction and motivation: software project failures
+  : 
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+January 11
+: Process models. Risk management.
+  : 
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+January 13
+: Process: Agile software development
+  : **Homework**{:.label .label-yellow} [Team matching survey](https://forms.gle/XV22u7VXD9wFREoa9)  
+    **Reading**{:.label} Agile methods. Chapters 1 and 2 of Dan Pilone and Russell Miles: Head First Software Development, O'Reilly Media, 2007.

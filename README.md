@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Just the Class
+title: CSE 210
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: CSE 210
 ---
 
 # Just the Class
