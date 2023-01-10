@@ -39,6 +39,7 @@ schedule:
       - name: Satvik's Office Hours
         start: 3:30 PM
         end: 4:30 PM
+        location:  CSE B250A
   - name: Thursday
   - name: Friday
     events:
