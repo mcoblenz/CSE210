@@ -3,7 +3,7 @@ title: Introduction and Process
 ---
  
 January 9
-: Introduction and motivation: software project failures
+: [Introduction and motivation: software project failures]({{ site.baseurl }}/assets/slides/lecture1.pdf)
   : 
 
 
