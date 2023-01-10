@@ -14,4 +14,4 @@ January 11
 January 13
 : Process: Agile software development
   : **Homework**{:.label .label-yellow} [Team matching survey](https://forms.gle/XV22u7VXD9wFREoa9)  
-    **Reading**{:.label} Agile methods. Chapters 1 and 2 of Dan Pilone and Russell Miles: Head First Software Development, O'Reilly Media, 2007.
+    **Reading**{:.label} Agile methods. Chapters 1 and 2 of [Dan Pilone and Russell Miles: Head First Software Development, O'Reilly Media, 2007](https://search-library.ucsd.edu/permalink/01UCS_SDI/ld412s/alma9914798227306531).
