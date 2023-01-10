@@ -25,6 +25,10 @@ schedule:
         start: 9:00 AM
         end: 9:50 AM
         location: FAH 1101
+      - name: Michael's Office Hours
+        start: 11:00 AM
+        end: 12:00 PM
+        location: CSE 3246
   - name: Tuesday
   - name: Wednesday
     events:
@@ -32,6 +36,9 @@ schedule:
         start: 9:00 AM
         end: 9:50 AM
         location: FAH 1101
+      - name: Satvik's Office Hours
+        start: 3:30 PM
+        end: 4:30 PM
   - name: Thursday
   - name: Friday
     events:
@@ -39,4 +46,7 @@ schedule:
         start: 9:00 AM
         end: 9:50 AM
         location: FAH 1101
+      - name: Ananya's Office Hours
+        start: 11:00 AM
+        end: 11:50 AM
 ---
