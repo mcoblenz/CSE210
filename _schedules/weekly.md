@@ -50,4 +50,5 @@ schedule:
       - name: Ananya's Office Hours
         start: 11:00 AM
         end: 11:50 AM
+        location: https://ucsd.zoom.us/my/ananya273
 ---
