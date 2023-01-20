@@ -12,7 +12,7 @@ January 18
   : 
 
 January 20
-: Requirements elicitation 
+: [Requirements elicitation]({{ site.baseurl }}/assets/slides/05-userstories.pdf)
   : **Reading**{:.label} First, read the [Agile Manifesto](https://agilemanifesto.org). Then read the [Scrum Guide](https://scrumguides.org/scrum-guide.html).
      Submit answers to questions on Gradescope.
 
