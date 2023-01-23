@@ -3,7 +3,7 @@ title: User-Centered Design
 ---
 
 January 23
-: Human-Computer Interaction 1
+: [Human-Computer Interaction 1]({{ site.baseurl }}/assets/slides/06-hci.pdf)
   : 
 
 January 25
