@@ -11,6 +11,6 @@ January 25
   : **Project**{:.label .label-red} Requirements interview questions
 
 January 27
-: Human-Computer Interaction 2
+: [Human-Computer Interaction 2]({{ site.baseurl }}/assets/slides/07-hci-2.pdf)
   : 
 

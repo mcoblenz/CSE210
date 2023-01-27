@@ -3,15 +3,15 @@ title: Security and DevOps
 ---
 
 February 13
-: Internationalization (i18n), localization (l10n), and accessability (a11y).
+: Internationalization (i18n), localization (l10n), and accessability (a11y). This session will be taught remotely via Zoom; students can join remotely or in the regular classroom.
   : 
 
 February 15
-: Security 1
+: Project discussion with TAs
   : 
 
 February 17
-: Security 2
+: Security
   : **Homework**{:.label .label-yellow} Architecture
   **Project**{:.label .label-red} Sprint 1
 
