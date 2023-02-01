@@ -1,16 +1,17 @@
 ---
-title: Software Architecture
+title: Software Engineering Practice
 ---
 
 February 6
-: Quality Attributes
-  : 
+: Testing
+  : Reading TBD
 
 February 8
-: Architectural Styles
-  : 
+: Object-oriented design
+  : Reading TBD
 
 February 10
-: Documentation
+: Code Review
   : **Project**{:.label .label-red} Design mockup and requirements document
-
+   
+    **Project**{:.label .label-red} Individual team status form

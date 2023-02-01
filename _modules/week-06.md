@@ -13,5 +13,8 @@ February 15
 February 17
 : Security
   : **Homework**{:.label .label-yellow} Architecture
-  **Project**{:.label .label-red} Sprint 1
+  
+    **Project**{:.label .label-red} Sprint 1
+   
+    **Project**{:.label .label-red} Individual team status form
 
