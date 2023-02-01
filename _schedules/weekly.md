@@ -47,8 +47,8 @@ schedule:
         start: 9:00 AM
         end: 9:50 AM
         location: FAH 1101
-      - name: Ananya's Office Hours
+      - name: Ananya's OH
         start: 11:00 AM
-        end: 11:50 AM
+        end: 12:00 PM
         location: https://ucsd.zoom.us/my/ananya273
 ---
