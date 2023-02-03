@@ -11,7 +11,7 @@ February 1
   : 
 
 February 3
-: Documentation
+: [Architecture 3]({{ site.baseurl }}/assets/slides/10-arch-3.pdf)
   : **Homework**{:.label .label-yellow} HCI 
     
     **Project**{:.label .label-red} Vision document
