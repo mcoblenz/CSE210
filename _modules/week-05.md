@@ -3,8 +3,8 @@ title: Software Engineering Practice
 ---
 
 February 6
-: Testing
-  : Reading TBD
+: [Testing]({{ site.baseurl }}/assets/slides/12-testing.pdf)
+  : 
 
 February 8
 : Object-oriented design
