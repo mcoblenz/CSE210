@@ -7,7 +7,7 @@ February 6
   : 
 
 February 8
-: Object-oriented design
+: [Object-oriented design]({{ site.baseurl }}/assets/slides/13-OO-Design.pdf)
   : Reading TBD
 
 February 10
