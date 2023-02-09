@@ -11,7 +11,7 @@ February 8
   : Reading TBD
 
 February 10
-: Code Review
+: Code Review. Optional reading: Alberto Bacchelli and Christian Bird. [Expectations, Outcomes, and Challenges of Modern Code Review.](https://dl.acm.org/doi/10.5555/2486788.2486882)
   : **Project**{:.label .label-red} Design mockup and requirements document
    
     **Project**{:.label .label-red} Individual team status form
