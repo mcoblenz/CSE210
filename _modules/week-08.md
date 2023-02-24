@@ -3,7 +3,7 @@ title: Teamwork and Scale
 ---
 
 February 27
-: Teamwork
+: Ethics
   : 
 
 March 1

@@ -10,7 +10,7 @@ February 22
   : 
 
 February 24
-: Ethics
+: [Teamwork]({{ site.baseurl }}/assets/slides/18-teamwork.pdf)
   : **Project**{:.label .label-red} Sprint 2
 
 
