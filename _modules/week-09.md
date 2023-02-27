@@ -13,6 +13,8 @@ March 8
 
 March 10
 : Case study #2
-  : **Project**{:.label .label-red} Sprint 4
+  : **Homework**{:.label .label-yellow} Architecture
+    
+    **Project**{:.label .label-red} Sprint 4
 
     **Project**{:.label .label-red} Individual team status form

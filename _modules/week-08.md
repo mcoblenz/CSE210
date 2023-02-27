@@ -3,7 +3,7 @@ title: Teamwork and Scale
 ---
 
 February 27
-: Ethics
+: [Ethics]({{ site.baseurl }}/assets/slides/19-Ethics.pdf)
   : 
 
 March 1
@@ -13,6 +13,5 @@ March 1
 March 3
 : Open Source
   : **Project**{:.label .label-red} Sprint 3
-    **Homework**{:.label .label-yellow} Debugging
 
     **Project**{:.label .label-red} Individual team status form
