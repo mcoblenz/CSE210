@@ -3,16 +3,16 @@ title: Advanced Testing and Case Studies
 --- 
 
 March 6
-: Advanced automated testing (e.g., fuzzing)
+: Rust 3
   : 
 
 March 8
 
-: Case study #1
+: Dependency management and versioning
   : 
 
 March 10
-: Case study #2
+: Case study
   : **Homework**{:.label .label-yellow} Architecture
     
     **Project**{:.label .label-red} Sprint 4

@@ -3,7 +3,7 @@ title: Demos
 ---
 
 March 13
-: Slack
+: Open source
   : 
 
 March 15
@@ -13,3 +13,5 @@ March 15
 March 17
 : Demos
   : **Homework**{:.label .label-yellow} Individual Reflections
+  
+    **Homework**{:.label .label-yellow} Rust programming assignment

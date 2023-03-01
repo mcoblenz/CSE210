@@ -11,7 +11,7 @@ March 1
   : 
 
 March 3
-: Open Source
+: Rust 2
   : **Project**{:.label .label-red} Sprint 3
 
     **Project**{:.label .label-red} Individual team status form
