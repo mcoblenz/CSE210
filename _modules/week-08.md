@@ -7,7 +7,7 @@ February 27
   : 
 
 March 1
-: Dependency management and versioning
+: [Rust 1]({{ site.baseurl }}/assets/slides/20-rust1.pdf)
   : 
 
 March 3
