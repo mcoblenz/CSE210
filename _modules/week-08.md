@@ -11,7 +11,7 @@ March 1
   : 
 
 March 3
-: Rust 2
+: [Rust 2]({{ site.baseurl }}/assets/slides/21-rust2-ownership.pdf)
   : **Project**{:.label .label-red} Sprint 3
 
     **Project**{:.label .label-red} Individual team status form
