@@ -3,7 +3,10 @@ title: Advanced Testing and Case Studies
 --- 
 
 March 6
-: Rust 3
+: [Rust 3: collections]({{ site.baseurl }}/assets/slides/22-rust3
+-collections.pdf)
+[Rust 3: structs/enums]({{ site.baseurl }}/assets/slides/22-rust4
+-structs-enums.pdf)
   : 
 
 March 8
