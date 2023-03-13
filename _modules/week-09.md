@@ -10,13 +10,12 @@ March 6
 
 March 8
 
-: (slide credit: Michael Hicks) [Rust 5: Box, trait objects]({{ site.baseurl }}/assets/slides/23-rust5-box-trait-objects.pdf)
+: Architecture exercise
 
-  [Rust 6: interior mutability]({{ site.baseurl }}/assets/slides/23-rust6-interior-mutability.pdf)
   : 
 
 March 10
-: Dependency management and versioning
+: (slide credit: Michael Hicks) [Rust 5: Box, trait objects]({{ site.baseurl }}/assets/slides/23-rust5-box-trait-objects.pdf)
   : **Homework**{:.label .label-yellow} Architecture
     
     **Project**{:.label .label-red} Sprint 4
