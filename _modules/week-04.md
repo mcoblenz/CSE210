@@ -2,15 +2,15 @@
 title: Software Architecture
 ---
 
-January 30
+January 29
 : [Architecture 1]({{ site.baseurl }}/assets/slides/08-arch-1.pdf)
   : 
 
-February 1
+January 31
 : [Architecture 2]({{ site.baseurl }}/assets/slides/09-arch-2.pdf)
   : 
 
-February 3
+February 2
 : [Architecture 3]({{ site.baseurl }}/assets/slides/10-arch-3.pdf)
   : **Homework**{:.label .label-yellow} HCI 
     

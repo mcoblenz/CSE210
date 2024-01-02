@@ -2,15 +2,15 @@
 title: Teamwork and Scale
 ---
 
-February 27
+February 26
 : [Ethics]({{ site.baseurl }}/assets/slides/19-Ethics.pdf)
   : 
 
-March 1
+February 28
 : (slide credit: Michael Hicks) [Rust 1]({{ site.baseurl }}/assets/slides/20-rust1.pdf)
   : 
 
-March 3
+March 1
 : (slide credit: Michael Hicks) [Rust 2]({{ site.baseurl }}/assets/slides/21-rust2-ownership.pdf)
   : **Project**{:.label .label-red} Sprint 3
 
