@@ -14,4 +14,4 @@ March 1
 : (slide credit: Michael Hicks) [Rust 2]({{ site.baseurl }}/assets/slides/21-rust2-ownership.pdf)
   : **Project**{:.label .label-red} Sprint 3
 
-    **Project**{:.label .label-red} Individual team status form
+    **Project**{:.label .label-red} Individual team collaboration report

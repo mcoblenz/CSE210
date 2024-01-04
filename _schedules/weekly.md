@@ -22,10 +22,10 @@ schedule:
   - name: Monday
     events:
       - name: Lecture
-        start: 9:00 AM
-        end: 9:50 AM
-        location: FAH 1101
-      - name: Michael's Office Hours
+        start: 10:00 AM
+        end: 10:50 AM
+        location: CENTR 113
+      - name: Prof. Coblenz's Office Hours
         start: 11:00 AM
         end: 12:00 PM
         location: CSE 3246
@@ -33,22 +33,14 @@ schedule:
   - name: Wednesday
     events:
       - name: Lecture
-        start: 9:00 AM
-        end: 9:50 AM
-        location: FAH 1101
-      - name: Satvik's Office Hours
-        start: 3:30 PM
-        end: 4:30 PM
-        location:  CSE B250A
+        start: 10:00 AM
+        end: 10:50 AM
+        location: CENTR 113
   - name: Thursday
   - name: Friday
     events:
       - name: Lecture
         start: 9:00 AM
         end: 9:50 AM
-        location: FAH 1101
-      - name: Ananya's OH
-        start: 11:00 AM
-        end: 12:00 PM
-        location: https://ucsd.zoom.us/my/ananya273
+        location: CENTR 113
 ---

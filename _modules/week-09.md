@@ -20,4 +20,4 @@ March 8
     
     **Project**{:.label .label-red} Sprint 4
 
-    **Project**{:.label .label-red} Individual team status form
+    **Project**{:.label .label-red} Individual team collaboration report

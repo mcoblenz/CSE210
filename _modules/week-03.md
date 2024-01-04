@@ -12,5 +12,5 @@ January 24
 
 January 26
 : [Human-Computer Interaction 2]({{ site.baseurl }}/assets/slides/07-hci-2.pdf)
-  : 
+  : **Project**{:.label .label-red} Individual team collaboration report
 

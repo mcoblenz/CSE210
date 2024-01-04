@@ -14,5 +14,5 @@ February 16
 : [Security]({{ site.baseurl }}/assets/slides/16-security.pdf)
   : **Project**{:.label .label-red} Sprint 1
    
-    **Project**{:.label .label-red} Individual team status form
+    **Project**{:.label .label-red} Individual team collaboration report
 

@@ -20,32 +20,55 @@ description: >-
 
 We will be using [Piazza](www.piazza.com) for discussion; we will enroll students from the waiting list as well.
 
+## Schedule
+
+Class will be MWF 10:00 - 10:50. Class meets at 10 AM MWF in [Center Hall](https://map.concept3d.com/?id=1005#!m/163044) 113.
+
+Discussion and participation in exercises is an instrumental part of the class. To promote free discussion (since students may want to discuss experiences they had at internships, etc.) as well as active attendance, class will not be recorded. You may not use recording devices to record class unless you have an OSD-approved disability accomodation (in which case any recordings are for personal use only).
+
+If you are sick, please do not come to class. Instead, if you are feeling up to it, contact me and I can give you a Zoom link to use that day. No need for a doctor's note; we're all adults here.
+
+We will have a final exam on Friday, March 22 8 AM - 11 AM.
+
 ## Grading
 
 I spent eight years as a software engineer in industry, and in considering hundreds of candidates for hire, I never looked at anyone's grade in a software engineering course. Neither, as far as I knew, did anyone else in the hiring process. Instead, we interviewed candidates to assess their skills and knowledge.
 
 In this course, we have limited staff resources for giving feedback and grading work. There is also evidence from research showing that when students are given *both* long-form feedback *and* grades, students tend to focus on the grades, missing learning benefits of leveraging the feedback. Combined with my experience that knowledge and skills are much more important than grades, I have decided to focus the course staff time on providing *substantive feedback* and *opportunities for revision* rather than providing extremely precise grades (e.g., minus one point for a misspelling on page three). 
 
-* 50% of your grade will be determined by your contributions to your group. However, we will *not* assess the technical merits of each project and assign the same grade to each contributing member. Instead, you will report weekly both on your own contributions as well as your teammates' contributions. Your contribution will be assessed in the following categories (this list may be updated as needed):
+* 40% of your grade will be determined by your contributions to your group. However, we will *not* assess the technical merits of each project and assign the same grade to each contributing member. Instead, you will report weekly both on your own contributions as well as your teammates' contributions. Your contribution will be assessed in the following categories:
   * Technical contributions: to what extent has your technical work (writing code, designing software, writing documentation, writing tests, maintaining CI/CD systems) helped your team deliver great software?
   * Teamwork: to what extent have you been a collaborative and effective team member? Have you delivered what you promised in a timely fashion, and communicated as needed when you were running late?
   * Independence: to what extent have you provided *direction* to your group or exercised individual discretion? This category could also be called *leadership*, but this is not a competition to be the group "leader." Instead, our focus is on your ability to think critically about the team's needs and propose directions -- either techical or otherwise.
 
-* 50% of your grade will be determined by your individual work on homework assignments and reading responses. We will provide written feedback on your work. In addition, each assignment will be marked with either **OK** or **resubmit**. Assignments marked **resubmit** should be resubmitted after addressing the feedback that is given in order to receive credit for completing the work. If the resubmitted work passes the quality bar, you will receive a grade of **OK** for that assignment. The actual quantitative grade will be determined according to the number of assignments you have submitted that pass our quality bar. To get an A, you must achieve **OK** on all of the assignments.
+* 40% of your grade will be determined by your individual work on homework assignments and reading responses. We will provide written feedback on your work. Selected assignments may be resubmitted. When they are submitted, these assignments will be marked either **OK** or **resubmit**. Assignments marked **resubmit** should be resubmitted after addressing the feedback that is given in order to receive credit for completing the work. If the resubmitted work passes the quality bar, you will receive a grade of **OK** for that assignment. The actual quantitative grade will be determined according to the number of assignments you have submitted that pass our quality bar. To get an A on these assignments, you must achieve **OK** on all of the assignments.
+
+* 20% of your grade will be determined by your final exam.
 
 If you submit individual work late, we will not directly penalize your grade. However, we only commit to promptly grading and returning work that is submitted on time. Other work will be graded (and awarded credit) as resources allow.
 
+### Individual assignments
+
+| Component | Weight | Due Date |
+|-----------|--------|----------|
+| Team matching survey | 0% | 1/12 |
+| Reading response: agile | 2% | ? |
+| Reading response: scrum | 2% | ? |
+| Requirements elicitation | ?% | ? |
+| Team contribution reports  (x7)| 7% total | weekly |
+| HCI (heuristic evaluation) | ?% | ? |
+| Software architecture | ?% | ? |
+| Project reflection | 
+| Rust programming assignment | 
 
 
+### Team assignments
 
-## Lecture
-
-Class meets at 9 AM MWF. I'm sorry about the early start. If it makes you feel any better, the registrar originally scheduled us for 8 AM, and I said no!
-
-Discussion and participation in exercises is an instrumental part of the class. To promote free discussion (since students may want to discuss experiences they had at internships, etc.) as well as active attendance, class will not be recorded. You may not use recording devices to record class unless you have an OSD-approved disability accomodation (in which case any recordings are for personal use only).
-
-If you are sick, please do not come to class. Instead, if you are feeling up to it, contact me and I can give you a Zoom link to use that day. No need for a doctor's note; we're all adults here.
-
+| Component | Weight | Due Date |
+|-----------|--------|----------|
+| Project vision | | 
+| Design mockup and requirements document | |
+| Project demo | | 
 
 ## Academic Integrity
 
@@ -68,20 +91,6 @@ We recognize that you are not lawyers (neither are we!). Therefore, we will exer
 * Additional optional reading: Michael A. Cusumano and Richard W. Shelby. Microsoft Secrets: How the World's Most Powerful Software Company Creates Technology, Shapes Markets and Manages People. 1998.
 
 
-## Assignments
-
-Major individual assignments will be as follows:
-
-* Human-computer interaction: applying basic methods of HCI to design and assess user interfaces
-
-* Architecture: designing, analyzing, and documenting how components relate to each other and affect the quality attributes of the system.
-
-* Debugging: you will contribute to an open-source project of your choice to fix a bug.
-
-* Project reflection: at the end of the quarter, you will reflect on your role in your team and your team's dynamics.
-
-Major group assignments will include:
-
-* A "Hello, world" assignment in which you show that your team has a basic application working on your selected platform
+## Reading assignments
 
 On days when a reading is assigned, a *reading reflection* will also be due. This is an opportunity for you to think more deeply about the reading material and how its lessons might impact your software engineering practice.

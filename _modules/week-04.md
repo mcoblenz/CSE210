@@ -16,7 +16,7 @@ February 2
     
     **Project**{:.label .label-red} Vision document
 
-    **Project**{:.label .label-red} Individual team status form
+    **Project**{:.label .label-red} Individual team collaboration report
 
 
 
