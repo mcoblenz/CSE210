@@ -1,18 +1,20 @@
 ---
-title: Debugging and Ethics
+title: Debugging and Teamwork
 ---
 
 February 19
 : **No class**{: .label .label-purple } (Presidents' Day)
 
 February 21
-: [Debugging Large Systems]({{ site.baseurl }}/assets/slides/17-debugging.pdf)
-  : 
+: Debugging Large Systems
 
 February 23
-: [Teamwork]({{ site.baseurl }}/assets/slides/18-teamwork.pdf)
+: Teamwork
   : **Project**{:.label .label-red} Sprint 2
 
 
     **Project**{:.label .label-red} Individual team collaboration report
 
+    **Project**{:.label .label-red} Security assignment due
+
+    **Homework**{:.label .label-yellow} Architecture

@@ -1,18 +1,21 @@
 ---
-title: Security and DevOps
+title: Design, Testing, and Security
 ---
 
 February 12
-: [Internationalization (i18n), localization (l10n), and accessability (a11y)]({{ site.baseurl }}/assets/slides/15-internationalization.pdf). This session will be taught remotely via Zoom; students can join remotely or in the regular classroom.
+: Object-oriented design
+
   : 
 
 February 14
-: Project discussion with TAs
+: Testing
   : 
 
 February 16
-: [Security]({{ site.baseurl }}/assets/slides/16-security.pdf)
+: Security
   : **Project**{:.label .label-red} Sprint 1
    
     **Project**{:.label .label-red} Individual team collaboration report
+
+    **Project**{:.label .label-red} Security assignment out
 

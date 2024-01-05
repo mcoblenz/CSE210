@@ -6,18 +6,7 @@ description: About the project
 
 ## Deadlines
 
-Deliverables are generally due on the Friday of each week before class.
-
-* Week 0: team matching survey
-* Week 1: no project deliverables
-* Week 2 (due **Wednesday, 1/25**): Requirements elicitation questions
-* Week 3: Vision document
-* Week 4: Design mockup and requirements document
-* Week 5: Sprint 1
-* Week 6: Sprint 2
-* Week 7: Sprint 3
-* Week 8: Sprint 4
-* Week 9: Demos
+Please see the Calendar for the due dates.
 
 
 Starting week 3, weekly individual reports will be due, summarizing individual contributions to the team project. 
@@ -33,15 +22,15 @@ TAs will provide feedback to groups telling them to what extent they're on track
 
 ### Project Topic
 
-Housing in San Diego presents significant challenges to residents. Your project should concern some aspect of finding and choosing places to live in the area. Some possible challenges include:
+Health and wellness are challenges for everyone. Your team should choose a health or wellness-related issue that addresses the needs of key stakeholders. Then, design a software system that could help. Possible topics could include:
 
-* Identifying and comparing apartments or houses
-* Landlord reputation
-* Utility costs and/or environmental implications of various housing options (some housing stock may be poorly insulated and have high HVAC costs / energy consumption)
-* Proximity to and accessibility of nearby services: grocery stores, restaurants, parks, libraries, etc.
-* Group housing planning: people may want to live near friends or family
-
-You may also identify other challenges related to housing or living in San Diego. 
+* Nutrition
+* Exercise motivation and tracking
+* Chronic condition management (e.g., diabetes, blood pressure, etc.)
+* Medication tracking
+* Meditation
+* Specific exercise training (e.g., yoga or other exercise activities)
+* Social connection
 
 ### Team and Project Organization
 

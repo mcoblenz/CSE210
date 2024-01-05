@@ -32,47 +32,50 @@ We will have a final exam on Friday, March 22 8 AM - 11 AM.
 
 ## Grading
 
-I spent eight years as a software engineer in industry, and in considering hundreds of candidates for hire, I never looked at anyone's grade in a software engineering course. Neither, as far as I knew, did anyone else in the hiring process. Instead, we interviewed candidates to assess their skills and knowledge.
-
-In this course, we have limited staff resources for giving feedback and grading work. There is also evidence from research showing that when students are given *both* long-form feedback *and* grades, students tend to focus on the grades, missing learning benefits of leveraging the feedback. Combined with my experience that knowledge and skills are much more important than grades, I have decided to focus the course staff time on providing *substantive feedback* and *opportunities for revision* rather than providing extremely precise grades (e.g., minus one point for a misspelling on page three). 
-
-* 40% of your grade will be determined by your contributions to your group. However, we will *not* assess the technical merits of each project and assign the same grade to each contributing member. Instead, you will report weekly both on your own contributions as well as your teammates' contributions. Your contribution will be assessed in the following categories:
+* 40% of your grade will be determined by your team project. Of this 40%, part will be determined by team-level signals of quality, which will be assessed in weekly meetings with TAs and with team deliverables. The remaining part will depend on our assessment of your individual contributions to your group. For this portion, we will *not* assess the technical merits of each project and assign the same grade to each contributing member. Instead, you will report weekly both on your own contributions as well as your teammates' contributions. Your contribution will be assessed in the following categories:
   * Technical contributions: to what extent has your technical work (writing code, designing software, writing documentation, writing tests, maintaining CI/CD systems) helped your team deliver great software?
   * Teamwork: to what extent have you been a collaborative and effective team member? Have you delivered what you promised in a timely fashion, and communicated as needed when you were running late?
   * Independence: to what extent have you provided *direction* to your group or exercised individual discretion? This category could also be called *leadership*, but this is not a competition to be the group "leader." Instead, our focus is on your ability to think critically about the team's needs and propose directions -- either techical or otherwise.
 
-* 40% of your grade will be determined by your individual work on homework assignments and reading responses. We will provide written feedback on your work. Selected assignments may be resubmitted. When they are submitted, these assignments will be marked either **OK** or **resubmit**. Assignments marked **resubmit** should be resubmitted after addressing the feedback that is given in order to receive credit for completing the work. If the resubmitted work passes the quality bar, you will receive a grade of **OK** for that assignment. The actual quantitative grade will be determined according to the number of assignments you have submitted that pass our quality bar. To get an A on these assignments, you must achieve **OK** on all of the assignments.
+* 40% of your grade will be determined by your individual work on homework assignments and reading responses.
 
 * 20% of your grade will be determined by your final exam.
 
 If you submit individual work late, we will not directly penalize your grade. However, we only commit to promptly grading and returning work that is submitted on time. Other work will be graded (and awarded credit) as resources allow.
 
-### Individual assignments
+### Individual assignments (total: 40%)
 
 | Component | Weight | Due Date |
 |-----------|--------|----------|
 | Team matching survey | 0% | 1/12 |
+| Reading response: Soul of a New Machine | 6% | 
 | Reading response: agile | 2% | ? |
 | Reading response: scrum | 2% | ? |
-| Requirements elicitation | ?% | ? |
+| Requirements elicitation | 1% | ? |
 | Team contribution reports  (x7)| 7% total | weekly |
-| HCI (heuristic evaluation) | ?% | ? |
-| Software architecture | ?% | ? |
-| Project reflection | 
-| Rust programming assignment | 
+| HCI (heuristic evaluation) | 5% | ? |
+| Software architecture | 7% | ? |
+| Project reflection | 5% | 
+| Rust programming assignment, pt. 1 | 3% | 
+| Rust programming assignment, pt. 2 | 2% | 
 
 
-### Team assignments
+
+### Team assignments (total: 40%)
 
 | Component | Weight | Due Date |
 |-----------|--------|----------|
-| Project vision | | 
-| Design mockup and requirements document | |
-| Project demo | | 
+| Project vision | 5% | 
+| Design mockup and requirements document | 5% |
+| Project demo | 2% | 
+| Ongoing quality: testing, continuous integration | 2% |
+| Ongoing quality: documentation | 2% |
+| Ongoing quality: evidence of appropriate process | 2% |
+| Your contribution to team success | 22% | end of quarter |
 
 ## Academic Integrity
 
-Teamwork and collaboration are critical to success in software engineering. In individual homework assignments, I ask students to follow a *whiteboard policy*: you may discuss the homework assignments with anyone you like in front of a whiteboard. However, after you are done, erase the whiteboard, and each student should write their own submissions. You must write the names of those you collaborated with in your submissions.
+Teamwork and collaboration are critical to success in software engineering. In individual homework assignments, I ask students to follow a *whiteboard policy*: you may discuss the homework assignments with anyone you like in front of a whiteboard. However, after you are done, erase the whiteboard, and each student should write their own submissions. You must write the names of those you collaborated with in your submissions. 
 
 In team projects, all forms of collaboration are permitted within teams. Work between teams should follow the whiteboard policy above. Teams may not use each other's code or other artifacts.
 
@@ -80,7 +83,7 @@ When writing software, you may make use of resources to which you have legitimat
 
 The [default license](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) for a software project is that no one else can use artifacts from that project. If you use code from a project that does not have a license, or you use code without appropriate attribution, you are in violation of a software license's terms and therefore violating this course's academic integrity policy. 
 
-We recognize that you are not lawyers (neither are we!). Therefore, we will exercise reasonable judgment provided any problems are corrected immediately (typically by adding attribution or by removing the copied artifacts from your repositories). We reserve the right report academic integrity violations for egregious cases (e.g. use of another team's code or repeated violations).
+We recognize that you are not lawyers (neither are we!). Therefore, we will exercise reasonable judgment provided any problems are corrected immediately (typically by adding attribution or by removing the copied artifacts from your repositories). We reserve the right to report academic integrity violations for egregious cases (e.g. use of another team's code or repeated violations).
 
 [Students hold copyright to their own work](https://adminrecords.ucsd.edu/ppm/docs/500-5.pdf); see Supplement I, section C.
 

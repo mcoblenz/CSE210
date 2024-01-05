@@ -1,5 +1,5 @@
 ---
-title: Requirements
+title: Code Review
 ---
 
 January 15
@@ -8,11 +8,14 @@ January 15
   
 
 January 17
-: Requirements: user stories, scenarios
-  : 
+: Rust 3: interior mutability
+  : **Homework**{:.label .label-yellow} Rust assignment released
+
+    **Homework**{:.label .label-yellow} Team matching survey 
 
 January 19
-: [Requirements elicitation]({{ site.baseurl }}/assets/slides/05-userstories.pdf)
-  : **Reading**{:.label} First, read the [Agile Manifesto](https://agilemanifesto.org). Then read the [Scrum Guide](https://scrumguides.org/scrum-guide.html).
-     Submit answers to questions on Gradescope.
+: Code Review
 
+  Team assignments announced
+
+    : Optional reading: Alberto Bacchelli and Christian Bird. [Expectations, Outcomes, and Challenges of Modern Code Review.](https://dl.acm.org/doi/10.5555/2486788.2486882)
