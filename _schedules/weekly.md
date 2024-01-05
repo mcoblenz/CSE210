@@ -36,7 +36,7 @@ schedule:
         start: 10:00 AM
         end: 10:50 AM
         location: CENTR 113
-      - name: Antarishka Ray's office hours
+      - name: Antariksha Ray's office hours
         start: 4:00 PM
         end: 5:00 PM
         location: TBD
