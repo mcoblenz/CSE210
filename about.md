@@ -45,16 +45,16 @@ If you submit individual work late, we will not directly penalize your grade. Ho
 
 ### Individual assignments (total: 40%)
 
-| Component | Weight | Due Date |
-|-----------|--------|----------|
-| Team matching survey | 0% | 1/12 |
+| Component | Weight |
+|-----------|--------|
+| Team matching survey | 0% |
 | Reading response: Soul of a New Machine | 6% | 
-| Reading response: agile | 2% | ? |
-| Reading response: scrum | 2% | ? |
-| Requirements elicitation | 1% | ? |
-| Team contribution reports  (x7)| 7% total | weekly |
-| HCI (heuristic evaluation) | 5% | ? |
-| Software architecture | 7% | ? |
+| Reading response: agile | 2% |
+| Reading response: scrum | 2% |
+| Requirements elicitation | 1% |
+| Team contribution reports  (x7)| 7% total |
+| HCI (heuristic evaluation) | 5% |
+| Software architecture | 7% |
 | Project reflection | 5% | 
 | Rust programming assignment, pt. 1 | 3% | 
 | Rust programming assignment, pt. 2 | 2% | 
@@ -63,15 +63,15 @@ If you submit individual work late, we will not directly penalize your grade. Ho
 
 ### Team assignments (total: 40%)
 
-| Component | Weight | Due Date |
-|-----------|--------|----------|
+| Component | Weight |
+|-----------|--------|
 | Project vision | 5% | 
 | Design mockup and requirements document | 5% |
 | Project demo | 2% | 
 | Ongoing quality: testing, continuous integration | 2% |
 | Ongoing quality: documentation | 2% |
 | Ongoing quality: evidence of appropriate process | 2% |
-| Your contribution to team success | 22% | end of quarter |
+| Your contribution to team success | 22% |
 
 ## Academic Integrity
 
