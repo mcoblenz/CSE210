@@ -25,7 +25,7 @@ schedule:
         start: 10:00 AM
         end: 10:50 AM
         location: CENTR 113
-      - name: Prof. Coblenz's Office Hours
+      - name: Prof. Coblenz's office hours
         start: 11:00 AM
         end: 12:00 PM
         location: CSE 3246
@@ -36,6 +36,10 @@ schedule:
         start: 10:00 AM
         end: 10:50 AM
         location: CENTR 113
+      - name: Antarishka Ray's office hours
+        start: 4:00 PM
+        end: 5:00 PM
+        location: TBD
   - name: Thursday
   - name: Friday
     events:
@@ -43,4 +47,8 @@ schedule:
         start: 9:00 AM
         end: 9:50 AM
         location: CENTR 113
+      - name: Hao Luo's office hours
+        start: 11:00 AM
+        end: 12:00 PM
+        location: TBD
 ---
