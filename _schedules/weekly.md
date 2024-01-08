@@ -41,6 +41,11 @@ schedule:
         end: 5:00 PM
         location: TBD
   - name: Thursday
+    events:
+      - name: Gagan Gopalaiah's office hours
+        start: 10:00 AM
+        end: 11:00 AM
+        location: TBD
   - name: Friday
     events:
       - name: Lecture
