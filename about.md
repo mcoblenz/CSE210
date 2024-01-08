@@ -43,6 +43,16 @@ We will have a final exam on Friday, March 22 8 AM - 11 AM.
 
 If you submit individual work late, we will not directly penalize your grade. However, we only commit to promptly grading and returning work that is submitted on time. Other work will be graded (and awarded credit) as resources allow.
 
+Letter grades will be given according to the following scale:
+
+* A: grade >= 90%
+* B: 80% <= grade < 90%
+* C: 70% <= grade < 80%
+* D: 60% <= grade < 70%
+* F: grade < 60%
+
+The instructor has discretion to assign + and - grades within those ranges and to decrease the thresholds for grades if the overall grades are lower than expected. This discretion may be used to award small amounts of credit for exceptional contributions to in-class discussion.
+
 ### Individual assignments (total: 40%)
 
 | Component | Weight |
@@ -76,6 +86,10 @@ If you submit individual work late, we will not directly penalize your grade. Ho
 ### Final exam (total: 20%)
 
 We will have a final exam in the assigned final exam slot (March 22, 8-11 AM).
+
+## Comprehensive exam
+
+To pass the comprehensive exam for the course, you must earn a final exam grade of B- and an individual contribution to team success grade of B-.
 
 ## Academic Integrity
 
