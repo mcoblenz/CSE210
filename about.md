@@ -32,12 +32,12 @@ We will have a final exam on Friday, March 22 8 AM - 11 AM.
 
 ## Grading
 
+* 40% of your grade will be determined by your individual work on homework assignments and reading responses.
+
 * 40% of your grade will be determined by your team project. Of this 40%, part will be determined by team-level signals of quality, which will be assessed in weekly meetings with TAs and with team deliverables. The remaining part will depend on our assessment of your individual contributions to your group. For this portion, we will *not* assess the technical merits of each project and assign the same grade to each contributing member. Instead, you will report weekly both on your own contributions as well as your teammates' contributions. Your contribution will be assessed in the following categories:
   * Technical contributions: to what extent has your technical work (writing code, designing software, writing documentation, writing tests, maintaining CI/CD systems) helped your team deliver great software?
   * Teamwork: to what extent have you been a collaborative and effective team member? Have you delivered what you promised in a timely fashion, and communicated as needed when you were running late?
   * Independence: to what extent have you provided *direction* to your group or exercised individual discretion? This category could also be called *leadership*, but this is not a competition to be the group "leader." Instead, our focus is on your ability to think critically about the team's needs and propose directions -- either techical or otherwise.
-
-* 40% of your grade will be determined by your individual work on homework assignments and reading responses.
 
 * 20% of your grade will be determined by your final exam.
 
@@ -72,6 +72,10 @@ If you submit individual work late, we will not directly penalize your grade. Ho
 | Ongoing quality: documentation | 2% |
 | Ongoing quality: evidence of appropriate process | 2% |
 | Your contribution to team success | 22% |
+
+### Final exam (total: 20%)
+
+We will have a final exam in the assigned final exam slot (March 22, 8-11 AM).
 
 ## Academic Integrity
 
