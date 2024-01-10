@@ -8,7 +8,7 @@ January 8
 
 
 January 10
-: Rust 1: ownership
+: [Rust 1: ownership](../assets/slides/rust/00-rust-introduct.pdf)
   : 
 
 January 12
