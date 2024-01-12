@@ -39,18 +39,18 @@ schedule:
       - name: Antariksha Ray's office hours
         start: 4:00 PM
         end: 5:00 PM
-        location: TBD
+        location: CSE B270A
   - name: Thursday
     events:
       - name: Gagan Gopalaiah's office hours
         start: 10:00 AM
         end: 11:00 AM
-        location: TBD
+        location: CSE B240
   - name: Friday
     events:
       - name: Lecture
-        start: 9:00 AM
-        end: 9:50 AM
+        start: 10:00 AM
+        end: 10:50 AM
         location: CENTR 113
       - name: Hao Luo's office hours
         start: 11:00 AM
