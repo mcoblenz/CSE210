@@ -55,5 +55,5 @@ schedule:
       - name: Hao Luo's office hours
         start: 11:00 AM
         end: 12:00 PM
-        location: TBD
+        location: CSE B215
 ---

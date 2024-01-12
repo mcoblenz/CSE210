@@ -14,4 +14,3 @@ March 15
 : Demos
   : **Homework**{:.label .label-yellow} Individual Reflections
   
-    **Homework**{:.label .label-yellow} Rust programming assignment
