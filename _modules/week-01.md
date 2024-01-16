@@ -8,7 +8,7 @@ January 8
 
 
 January 10
-: [Rust 1: ownership]({{ site.baseurl }}/assets/slides/rust/00-rust-introduct.pdf)
+: [Rust 1: ownership]({{ site.baseurl }}/assets/slides/rust/01-rust-ownership.pdf)
   : 
 
 January 12

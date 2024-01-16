@@ -8,7 +8,7 @@ January 29
 
 January 31
 : Process models. Risk management.
-  : **Homework**{:.label .label-yellow} Rust assignment part 2 due    
+  : **Homework**{:.label .label-yellow} Rust assignment revision due    
     
     **Project**{:.label .label-red} Vision document
 
