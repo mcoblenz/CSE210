@@ -9,7 +9,7 @@ January 15
 
 January 17
 : [Rust 3: interior mutability]({{ site.baseurl }}/assets/slides/rust/03-box-interior-mutability.pdf)
-  : **Homework**{:.label .label-yellow} Rust assignment released
+  : **Homework**{:.label .label-yellow} [Rust assignment released](../rust-assignment)
 
     **Homework**{:.label .label-yellow} [Team matching survey](https://forms.gle/LR7dWiAnNVmDV9o7A)
 
