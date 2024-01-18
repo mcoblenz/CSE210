@@ -14,8 +14,5 @@ January 17
     **Homework**{:.label .label-yellow} [Team matching survey](https://forms.gle/LR7dWiAnNVmDV9o7A)
 
 January 19
-: Code Review
-
-  Team assignments announced
-
-    : Optional reading: Alberto Bacchelli and Christian Bird. [Expectations, Outcomes, and Challenges of Modern Code Review.](https://dl.acm.org/doi/10.5555/2486788.2486882)
+:  Requirements elicitation
+    : Team assignments announced

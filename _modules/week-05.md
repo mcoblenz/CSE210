@@ -15,3 +15,5 @@ February 9
   : **Project**{:.label .label-red} Design mockup and requirements document
    
     **Project**{:.label .label-red} Individual team collaboration report
+
+    **Reading**{:.label} "The Soul of a New Machine" reading response due

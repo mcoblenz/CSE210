@@ -3,20 +3,21 @@ title: Requirements
 ---
 
 January 22
-: Requirements elicitation
-  : 
-
-January 24
-: **Activity**{:.label .label.green} Requirements elicitation
+: **Activity**{:.label .label.green} Requirements elicitation, part 1
   : **Project**{:.label .label-red} Requirements interview questions
 
+January 24
+: Code Review
+  : 
     **Homework**{:.label .label-yellow} Rust assignment implementation due
 
-January 26
-: Human-Computer Interaction 1
-  : **Project**{:.label .label-red} Individual team collaboration report
+      Optional reading: Alberto Bacchelli and Christian Bird. [Expectations, Outcomes, and Challenges of Modern Code Review.](https://dl.acm.org/doi/10.5555/2486788.2486882)
 
-    **Reading**{:.label} "The Soul of a New Machine" reading response due
+January 26
+: **Activity**{:.label .label.green} Requirements elicitation, part 2
+  
+  Human-Computer Interaction 1
+  : **Project**{:.label .label-red} Individual team collaboration report
 
     **Homework**{:.label .label-yellow} Rust assignment code review
 
