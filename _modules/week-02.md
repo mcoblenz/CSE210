@@ -14,7 +14,7 @@ January 17
     **Homework**{:.label .label-yellow} [Team matching survey](https://forms.gle/LR7dWiAnNVmDV9o7A)
 
 January 19
-:  Requirements elicitation
+:  [Requirements elicitation]({{ site.baseurl }}/assets/slides/02-userstories.pdf)
 
     : Team assignments announced
 
