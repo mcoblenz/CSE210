@@ -91,6 +91,10 @@ We will have a final exam in the assigned final exam slot (March 22, 8-11 AM).
 
 To pass the comprehensive exam for the course, you must earn a final exam grade of B- and an individual contribution to team success grade of B-.
 
+## Pass/fail
+
+If you take this class pass/fail, we will grade your work as usual. At the end of the course, we will map final grades of B- and above to "pass" and grades lower than B- to "fail."
+
 ## Academic Integrity
 
 Teamwork and collaboration are critical to success in software engineering. In individual homework assignments, I ask students to follow a *whiteboard policy*: you may discuss the homework assignments with anyone you like in front of a whiteboard. However, after you are done, erase the whiteboard, and each student should write their own submissions. You must write the names of those you collaborated with in your submissions. 
