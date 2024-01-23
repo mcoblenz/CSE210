@@ -17,7 +17,7 @@ January 26
 : **Activity**{:.label .label.green} Requirements elicitation, part 2
   
   Human-Computer Interaction 1
-  : **Project**{:.label .label-red} Individual team collaboration report
+  : **Project**{:.label .label-red} [Individual team collaboration report](https://www.gradescope.com/courses/699955/assignments/3964069/)
 
     **Homework**{:.label .label-yellow} Rust assignment code review
 
