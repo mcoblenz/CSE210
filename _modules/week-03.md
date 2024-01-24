@@ -7,7 +7,7 @@ January 22
   : **Project**{:.label .label-red} Requirements interview questions
 
 January 24
-: Code Review
+: [Code Review]({{ site.baseurl }}/assets/slides/03-code-review.pdf)
   : 
     **Homework**{:.label .label-yellow} Rust assignment implementation due
 
