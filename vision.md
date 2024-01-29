@@ -16,4 +16,4 @@ The result should be a two-to-six page ``vision document'' for the product. It i
 
 Because we don't have a separate phase where risks are identified (and new ones can be discovered at any time), it is important here to identify your top risks for the project and product. Include not only customer and competitor risks, but all major risks as you can anticipate them now. Three categories of risks to never forget are team, technology, and time. Finding all your risks is a creative activity requiring full team participation, e.g., brainstorming.
 
-Submit your vision document on [Gradescope](https://www.gradescope.com/courses/487213/assignments/3967426/).
+Submit your vision document on [Gradescope](https://www.gradescope.com/courses/699955/assignments/4020611/).
