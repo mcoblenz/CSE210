@@ -17,4 +17,4 @@ February 9
    
     **Project**{:.label .label-red} [Individual team collaboration report](https://www.gradescope.com/courses/699955/assignments/3964146/)
 
-    **Reading**{:.label} "The Soul of a New Machine" reading response due
+    **Reading**{:.label} "The Soul of a New Machine" [reading response](https://www.gradescope.com/courses/699955/assignments/4019987) due
