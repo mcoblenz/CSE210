@@ -3,7 +3,7 @@ title: Process
 ---
 
 January 29
-: Human-Computer Interaction 2
+: [Human-Computer Interaction 2]({{ site.baseurl }}/assets/slides/05-hci-2.pdf)
   : **Homework**{:.label .label-yellow} Rust assignment code review
 
 January 31
