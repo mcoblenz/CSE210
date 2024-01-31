@@ -7,7 +7,7 @@ January 29
   : **Homework**{:.label .label-yellow} Rust assignment code review
 
 January 31
-: [Process models. Risk management.]({{ site.baseurl }}/assets/slides/({{ site.baseurl }}/assets/slides/06-process.pdf)
+: [Process models. Risk management.]({{ site.baseurl }}/assets/slides/06-process.pdf)
   :    
     **Project**{:.label .label-red} [Vision document](../vision)
 
