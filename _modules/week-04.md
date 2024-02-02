@@ -12,7 +12,7 @@ January 31
     **Project**{:.label .label-red} [Vision document](../vision)
 
 February 2
-: Process: Agile software development; [Scrum activity handout]({{ site.baseurl }}/assets/scrum-handout.pdf)
+: [Process: Agile software development]({{ site.baseurl }}/assets/slides/07-agile.pdf); [Scrum activity handout]({{ site.baseurl }}/assets/scrum-handout.pdf)
   : **Homework**{:.label .label-yellow} [Rust assignment revision due](https://www.gradescope.com/courses/699955/assignments/4020853/) 
 
     **Project**{:.label .label-red} [Individual team collaboration report](https://www.gradescope.com/courses/699955/assignments/3964145/)
