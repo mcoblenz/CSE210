@@ -13,7 +13,7 @@ February 7
 
 February 9
 : Architecture 3
-  : **Project**{:.label .label-red} Design mockup and requirements document
+  : **Project**{:.label .label-red} [Design mockup and requirements document](https://www.gradescope.com/courses/699955/assignments/4045791/)
    
     **Project**{:.label .label-red} [Individual team collaboration report](https://www.gradescope.com/courses/699955/assignments/3964146/)
 

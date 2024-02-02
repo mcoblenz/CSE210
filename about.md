@@ -62,7 +62,7 @@ The instructor has discretion to assign + and - grades within those ranges and t
 | Reading response: agile | 2% |
 | Reading response: scrum | 2% |
 | Requirements elicitation | 1% |
-| Team contribution reports  (x7)| 7% total |
+| Team contribution reports  (x7)| 7% total. We will forgive one missed report. |
 | HCI (heuristic evaluation) | 5% |
 | Software architecture | 7% |
 | Project reflection | 5% | 
