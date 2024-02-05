@@ -3,7 +3,7 @@ title: Architecture
 ---
 
 February 5
-: Architecture 1
+: [Architecture 1](({{ site.baseurl }}/assets/slides/08-arch-1.pdf))
   : **Homework**{:.label .label-yellow} HCI (heuristic evaluation)
 
 
