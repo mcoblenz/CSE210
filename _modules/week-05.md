@@ -4,12 +4,14 @@ title: Architecture
 
 February 5
 : [Architecture 1](({{ site.baseurl }}/assets/slides/08-arch-1.pdf))
-  : **Homework**{:.label .label-yellow} HCI (heuristic evaluation)
+  : **Homework**{:.label .label-yellow} [HCI (heuristic evaluation)](https://www.gradescope.com/courses/699955/assignments/4005453/)
+
+    Optional reading: [On the criteria to be used in decomposing systems into modules](https://dl.acm.org/doi/10.1145/361598.361623) (Parnas)
 
 
 February 7
-: Architecture 2
-  : 
+: [Architecture 2]({{ site.baseurl }}/assets/slides/09-arch-2.pdf)
+  : Optional reading: [An Introduction to Software Architecture](https://www.cs.cmu.edu/afs/cs/project/able/ftp/intro_softarch/intro_softarch.pdf) (David Garlan and Mary Shaw)
 
 February 9
 : Architecture 3
