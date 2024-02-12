@@ -3,7 +3,7 @@ title: Design, Testing, and Security
 ---
 
 February 12
-: Object-oriented design
+: [Object-oriented design]({{ site.baseurl }}/assets/slides/11-OO-Design.pdf)
 
   : 
 
