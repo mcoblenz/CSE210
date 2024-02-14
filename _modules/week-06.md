@@ -8,7 +8,7 @@ February 12
   : 
 
 February 14
-: Testing
+: [Testing]({{ site.baseurl }}/assets/slides/12-Testing.pdf)
   : 
 
 February 16
