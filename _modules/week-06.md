@@ -8,7 +8,7 @@ February 12
   : 
 
 February 14
-: [Testing]({{ site.baseurl }}/assets/slides/12-Testing.pdf)
+: [Testing]({{ site.baseurl }}/assets/slides/12-testing.pdf)
   : 
 
 February 16
