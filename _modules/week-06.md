@@ -12,7 +12,7 @@ February 14
   : 
 
 February 16
-: Security
+: [Security]({{ site.baseurl }}/assets/slides/13-security.pdf)
   : **Project**{:.label .label-red} Sprint 1
    
     **Project**{:.label .label-red} [Individual team collaboration report](https://www.gradescope.com/courses/699955/assignments/3964147/)
