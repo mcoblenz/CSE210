@@ -6,7 +6,7 @@ February 19
 : **No class**{: .label .label-purple } (Presidents' Day)
 
 February 21
-: Debugging Large Systems
+: [Debugging Large Systems]({{ site.baseurl }}/assets/slides/14-debugging.pdf)
 
 February 23
 : Teamwork
