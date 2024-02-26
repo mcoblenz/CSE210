@@ -9,7 +9,7 @@ February 21
 : [Debugging Large Systems]({{ site.baseurl }}/assets/slides/14-debugging.pdf)
 
 February 23
-: Teamwork
+: [Teamwork]({{ site.baseurl }}/assets/slides/15-teamwork.pdf)
   : **Project**{:.label .label-red} Sprint 2
 
 
@@ -17,4 +17,4 @@ February 23
 
     **Project**{:.label .label-red} Security assignment due
 
-    **Homework**{:.label .label-yellow} Architecture
+    
