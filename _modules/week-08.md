@@ -7,7 +7,7 @@ February 26
   : 
 
 February 28
-: Internationalization (i18n), localization (l10n), and accessability (a11y)
+: [Internationalization (i18n), localization (l10n), and accessability (a11y)]({{ site.baseurl }}/assets/slides/17-internationalization.pdf)
   : 
 
 March 1
