@@ -11,7 +11,7 @@ February 28
   : 
 
 March 1
-: Machine Learning
+: [Microservices]({{ site.baseurl }}/assets/slides/18-microservices.pdf) (slide credit: Michael Hilton)
   : **Project**{:.label .label-red} Sprint 3
 
     **Project**{:.label .label-red} [Individual team collaboration report](https://www.gradescope.com/courses/699955/assignments/3964149/)
