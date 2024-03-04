@@ -3,8 +3,8 @@ title: Practical Software Engineering
 --- 
 
 March 4
-: Business: money, interviewing, and hiring
-  : 
+: [What makes a great software engineer? Interviewing and hiring]({{ site.baseurl }}/assets/slides/19-hiring.pdf)
+  : Optional reading: [What makes a great software engineer?](https://ieeexplore.ieee.org/abstract/document/7194618)
 
 March 6
 
