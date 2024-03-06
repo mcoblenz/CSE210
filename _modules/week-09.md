@@ -8,7 +8,7 @@ March 4
 
 March 6
 
-: Intellectual property: copyright, licensing, and patents
+: [Intellectual property: copyright, licensing, and patents]({{ site.baseurl }}/assets/slides/20-legal.pdf)
   : 
 
 March 8
