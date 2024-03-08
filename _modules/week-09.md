@@ -12,7 +12,7 @@ March 6
   : 
 
 March 8
-: Program Analysis
+: [Program Analysis]({{ site.baseurl }}/assets/slides/21-program-analysis.pdf)
   : **Project**{:.label .label-red} Sprint 4
 
     **Project**{:.label .label-red} [Individual team collaboration report](https://www.gradescope.com/courses/699955/assignments/3964150)
