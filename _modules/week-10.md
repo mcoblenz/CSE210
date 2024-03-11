@@ -3,8 +3,8 @@ title: Demos
 ---
 
 March 11
-:     Last lecture
-  : 
+:     [Privacy]({{ site.baseurl }}/assets/slides/22-privacy.pdf)
+  : Optional video: [The Definition of Differential Privacy](https://www.youtube.com/watch?v=lg-VhHlztqo)
 
 March 13
 : Demos
