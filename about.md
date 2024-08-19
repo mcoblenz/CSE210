@@ -111,7 +111,9 @@ We recognize that you are not lawyers (neither are we!). Therefore, we will exer
 
 ## Resources
 
-* Dan Pilone and Russ Miles. Head First Software Development, O'Reilly Media, 2007. Available free online through the [UCSD Library](https://library.ucsd.edu).
+* Dan Pilone and Russ Miles. Head First Software Development, O'Reilly Media, Inc. 2007. Available free for UCSD students: [UCSD library](https://search-library.ucsd.edu/permalink/01UCS_SDI/ld412s/alma9914798227306531).
+
+* Eric Freeman and Elisabeth Robson. Head First Design Patterns, 2nd Edition. O'Reilly Media, Inc. 2020. Available free for UCSD students: [UCSD library](https://search-library.ucsd.edu/permalink/01UCS_SDI/ld412s/alma9914814458206531)
 
 * Additional optional reading: Michael A. Cusumano and Richard W. Shelby. Microsoft Secrets: How the World's Most Powerful Software Company Creates Technology, Shapes Markets and Manages People. 1998.
 
