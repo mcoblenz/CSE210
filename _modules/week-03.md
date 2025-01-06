@@ -2,22 +2,15 @@
 title: Requirements
 ---
 
+January 20
+: **No class**{: .label .label-purple } MLK Day
+
 January 22
-: **Activity**{:.label .label.green} Requirements elicitation, part 1
-  : **Project**{:.label .label-red} Requirements interview questions
+: Elevator pitches (in-class activity)
+
+    : **Reading**{:.label} Alberto Bacchelli and Christian Bird. [Expectations, Outcomes, and Challenges of Modern Code Review.](https://dl.acm.org/doi/10.5555/2486788.2486882)
 
 January 24
-: [Code Review]({{ site.baseurl }}/assets/slides/03-code-review.pdf)
-  : 
-    **Homework**{:.label .label-yellow} Rust assignment implementation due
+: Architecture 1
 
-      Optional reading: Alberto Bacchelli and Christian Bird. [Expectations, Outcomes, and Challenges of Modern Code Review.](https://dl.acm.org/doi/10.5555/2486788.2486882)
-
-January 26
-: **Activity**{:.label .label.green} Requirements elicitation, part 2
-  
-  [Human-Computer Interaction 1]({{ site.baseurl }}/assets/slides/04-hci.pdf)
-  : **Project**{:.label .label-red} [Individual team collaboration report](https://www.gradescope.com/courses/699955/assignments/3964069/)
-
-    
-
+    : **Reading**{:.label} [On the criteria to be used in decomposing systems into modules](https://dl.acm.org/doi/10.1145/361598.361623) (Parnas)

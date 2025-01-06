@@ -2,15 +2,13 @@
 title: Demos
 ---
 
-March 11
-:     [Privacy]({{ site.baseurl }}/assets/slides/22-privacy.pdf)
-      :    Optional video: [The Definition of Differential Privacy](https://www.youtube.com/watch?v=lg-VhHlztqo)
+March 10
+: Intellectual property: copyright, licensing, and patents
 
-March 13
-: Demos
-  : 
+March 12
+: TBD
 
-March 15
-: Demos
-  : **Homework**{:.label .label-yellow} Individual Reflections
-  
+March 14
+: Midterm 2
+
+    : **Homework**{:.label .label-yellow} Individual Reflections

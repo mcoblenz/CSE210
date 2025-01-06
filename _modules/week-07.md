@@ -2,19 +2,15 @@
 title: Debugging and Teamwork
 ---
 
-February 19
+February 17
 : **No class**{: .label .label-purple } (Presidents' Day)
 
+February 19
+: Ethics
+
 February 21
-: [Debugging Large Systems]({{ site.baseurl }}/assets/slides/14-debugging.pdf)
+: Risk
 
-February 23
-: [Teamwork]({{ site.baseurl }}/assets/slides/15-teamwork.pdf)
-  : **Project**{:.label .label-red} Sprint 2
+    : **Project**{:.label .label-red} Sprint 2
 
-
-    **Project**{:.label .label-red} [Individual team collaboration report](https://www.gradescope.com/courses/699955/assignments/3964148/)
-
-    **Project**{:.label .label-red} Security assignment due
-
-    
+    : **Project**{:.label .label-red} Individual team collaboration report

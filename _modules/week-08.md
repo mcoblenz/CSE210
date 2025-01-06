@@ -2,18 +2,17 @@
 title: Practical Software Engineering
 ---
 
+February 24
+: Internationalization (i18n), localization (l10n), and accessability (a11y)
+
 February 26
-: [Ethics]({{ site.baseurl }}/assets/slides/16-Ethics.pdf)
-  : 
+: Teamwork
 
 February 28
-: [Internationalization (i18n), localization (l10n), and accessability (a11y)]({{ site.baseurl }}/assets/slides/17-internationalization.pdf)
-  : 
+: Privacy
 
-March 1
-: [Microservices]({{ site.baseurl }}/assets/slides/18-microservices.pdf) (slide credit: Michael Hilton)
-  : **Project**{:.label .label-red} Sprint 3
+    : Optional video: [The Definition of Differential Privacy](https://www.youtube.com/watch?v=lg-VhHlztqo)
 
-    **Project**{:.label .label-red} [Individual team collaboration report](https://www.gradescope.com/courses/699955/assignments/3964149/)
+    : **Project**{:.label .label-red} Sprint 3
 
-    **Homework**{:.label .label-yellow} Architecture
+      **Project**{:.label .label-red} [Individual team collaboration report](https://www.gradescope.com/courses/699955/assignments/3964149/)
