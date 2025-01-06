@@ -10,7 +10,7 @@ January 6
 January 8
 : Requirements
 
-    : **Reading**{:.label} [Requirements engineering for software and systems](https://search-library.ucsd.edu/permalink/01UCS_SDI/ld412s/alma9919487443206531), chapter 1
+    : **Reading**{:.label} [Requirements engineering for software and systems](https://search-library.ucsd.edu/permalink/01UCS_SDI/ld412s/alma9919487443206531), chapter 1; [Reading response](https://www.gradescope.com/courses/940938/assignments/5535357/)
 
 January 10
 : Requirements elicitation activity

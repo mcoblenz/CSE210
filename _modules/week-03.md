@@ -8,8 +8,6 @@ January 20
 January 22
 : Elevator pitches (in-class activity)
 
-    : **Reading**{:.label} Alberto Bacchelli and Christian Bird. [Expectations, Outcomes, and Challenges of Modern Code Review.](https://dl.acm.org/doi/10.5555/2486788.2486882)
-
 January 24
 : Architecture 1
 
