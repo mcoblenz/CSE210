@@ -8,6 +8,8 @@ January 20
 January 22
 : Elevator pitches (in-class activity)
 
+    : **Project**{:.label .label-red} Elevator pitch
+
 January 24
 : Architecture 1
 

@@ -8,9 +8,9 @@ February 17
 February 19
 : Ethics
 
+    : **Project**{:.label .label-red} Sprint 2
+
 February 21
 : Risk
-
-    : **Project**{:.label .label-red} Sprint 2
 
     : **Project**{:.label .label-red} Individual team collaboration report
