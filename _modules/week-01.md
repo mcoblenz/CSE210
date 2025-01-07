@@ -3,7 +3,7 @@ title: Introduction and Rust
 ---
 
 January 6
-: Introduction and motivation: software project failures
+: [Introduction and motivation: software project failures]({{ site.baseurl }}/assets/slides/01-intro.pdf)
 
     : **Reading**{:.label} Start reading "The Soul of a New Machine" by Tracy Kidder
 
