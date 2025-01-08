@@ -30,10 +30,12 @@ schedule:
         start: 11:00 AM
         end: 12:00 PM
         location: CSE 3246
-      - name: Ria's office hours
-        start: 3:30 PM
-        end: 4:30 PM
   - name: Tuesday
+    events:
+      - name: Ria's office hours
+        start: 400 PM
+        end: 5:00 PM
+        location: B270A
   - name: Wednesday
     events:
       - name: Lecture
@@ -55,4 +57,5 @@ schedule:
       - name: Antariksha's OH
         start: 11:00 AM
         end: 12:00 PM
+        location: B270A
 ---
