@@ -26,23 +26,33 @@ schedule:
         start: 10:00 AM
         end: 10:50 AM
         location: CENTR 115
-      - name: Prof. Coblenz's office hours
+      - name: Prof. Coblenz's OH
         start: 11:00 AM
         end: 12:00 PM
         location: CSE 3246
+      - name: Ria's office hours
+        start: 3:30 PM
+        end: 4:30 PM
   - name: Tuesday
   - name: Wednesday
     events:
       - name: Lecture
         start: 10:00 AM
         end: 10:50 AM
-        location: CENTR 113
+        location: CENTR 115
   - name: Thursday
     events:
+      - name: Rashi's OH
+        start: 12:00 PM
+        end: 1:00 PM
+        location: B260A
   - name: Friday
     events:
       - name: Lecture
         start: 10:00 AM
         end: 10:50 AM
-        location: CENTR 113
+        location: CENTR 115
+      - name: Antariksha's OH
+        start: 11:00 AM
+        end: 12:00 PM
 ---
