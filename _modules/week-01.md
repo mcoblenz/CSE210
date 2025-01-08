@@ -8,7 +8,7 @@ January 6
     : **Reading**{:.label} Start reading "The Soul of a New Machine" by Tracy Kidder
 
 January 8
-: Requirements
+: [Requirements]({{ site.baseurl }}/assets/slides/02-requirements.pdf)
 
     : **Reading**{:.label} [Requirements engineering for software and systems](https://search-library.ucsd.edu/permalink/01UCS_SDI/ld412s/alma9919487443206531), chapter 1; [Reading response](https://www.gradescope.com/courses/940938/assignments/5535357/)
 
