@@ -33,7 +33,7 @@ schedule:
   - name: Tuesday
     events:
       - name: Ria's office hours
-        start: 400 PM
+        start: 4:00 PM
         end: 5:00 PM
         location: B270A
   - name: Wednesday
