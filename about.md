@@ -59,7 +59,7 @@ The instructor has discretion to assign + and - grades within those ranges and t
 
 | Component                               | Weight |
 | --------------------------------------- | ------ |
-| Project pitch                           | 1%     |
+| Interview questions                     | 1%     |
 | Reading responses                       | 6%     |
 | Property-based testing                  | 3%     |
 | Software architecture                   | 5%     |
