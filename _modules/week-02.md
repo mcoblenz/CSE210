@@ -17,7 +17,7 @@ January 15
     : **Reading**{:.label} [Preece, Jenny, and Yvonne Rogers. Interaction Design : Beyond Human-Computer Interaction](https://search-library.ucsd.edu/permalink/01UCS_SDI/ld412s/alma991001629809706535). Chapter 11 only.
 
 January 17
-: Testing
+: [Testing]({{ site.baseurl }}/assets/slides/06-testing.pdf)
 
     : **Reading**{:.label} [How SQLite Is Tested](https://www.sqlite.org/testing.html)
 
