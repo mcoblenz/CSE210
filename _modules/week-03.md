@@ -8,7 +8,7 @@ January 20
 January 22
 : Elevator pitches (in-class activity)
 
-    : **Project**{:.label .label-red} Elevator pitch
+    : **Project**{:.label .label-red} [Elevator pitch](https://www.gradescope.com/courses/940938/assignments/5626852/)
 
 January 24
 : Architecture 1
