@@ -13,4 +13,4 @@ January 22
 January 24
 : Architecture 1
 
-    : **Reading**{:.label} [On the criteria to be used in decomposing systems into modules](https://dl.acm.org/doi/10.1145/361598.361623) (Parnas)
+    : **Reading**{:.label} [On the criteria to be used in decomposing systems into modules](https://dl.acm.org/doi/10.1145/361598.361623) (Parnas); [Reading response](https://www.gradescope.com/courses/940938/assignments/5648078)
