@@ -12,7 +12,7 @@ January 27
 January 29
 : Architecture 3
 
-    : **Project**{:.label .label-red} Vision document & mockups
+    : **Project**{:.label .label-red} [Requirements document & mockups](https://www.gradescope.com/courses/940938/assignments/5663314)
 
 January 31
 : Usability studies.
