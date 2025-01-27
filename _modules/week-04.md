@@ -3,7 +3,7 @@ title: Process
 ---
 
 January 27
-: Architecture 2
+: [Architecture 2]({{ site.baseurl }}/assets/slides/08-arch-2.pdf)
 
     : **Reading**{:.label} [Software Architecture in Practice](https://search-library.ucsd.edu/permalink/01UCS_SDI/1vtf07t/cdi_safari_books_v2_9780136885979), chapters 3 and 8 only (David Garlan and Mary Shaw)
 
