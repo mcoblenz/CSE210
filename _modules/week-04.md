@@ -17,4 +17,4 @@ January 29
 January 31
 : Usability studies.
 
-    :
+    :  **Reading**{:.label} Chapter 10, Research Methods in Human-Computer Interaction, 2nd Edition: [Usability testing](https://search-library.ucsd.edu/permalink/01UCS_SDI/6p31js/cdi_elsevier_sciencedirect_doi_10_1016_B978_0_12_805390_4_00010_8)
