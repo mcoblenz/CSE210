@@ -5,7 +5,7 @@ title: Design, Testing, and Security
 February 10
 : Code quality: OOP
 
-    : **Homework**{:.label .label-yellow} Architecture
+    :
 
 February 14
 : Design patterns 1

@@ -62,13 +62,12 @@ The instructor has discretion to assign + and - grades within those ranges and t
 | Interview questions                     | 1%     |
 | Reading responses                       | 6%     |
 | Property-based testing                  | 3%     |
-| Software architecture                   | 5%     |
-| Usability study                         | 3%     |
+| Usability study                         | 5%     |
 | Team reports (x7) (forgiving one)       | 2%     |
 | Reading response: Soul of a New Machine | 5%     |
-| Project reflection                      | 5%     |
+| Project reflection                      | 6%     |
 | In-class exercises (drop lowest 10%)    | 5%     |
-| Design and implementation oral exam     | 5%     |
+| Design and implementation oral exam     | 7%     |
 | Your contribution to team success       | 10%    |
 
 #### Design and implementation oral exam
