@@ -14,7 +14,7 @@ February 3
 February 5
 : Midterm exam
 
-    : **Project**{:.label .label-red} [Architecture diagrams](https://www.gradescope.com/courses/940938/assignments/5663327/)
-
 February 7
 : Security
+
+    : **Project**{:.label .label-red} [Architecture diagrams](https://www.gradescope.com/courses/940938/assignments/5663327/)
