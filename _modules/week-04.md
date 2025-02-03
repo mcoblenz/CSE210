@@ -15,6 +15,6 @@ January 29
     : **Project**{:.label .label-red} [Requirements document & mockups](https://www.gradescope.com/courses/940938/assignments/5663314)
 
 January 31
-: [Usability studies]({{ site.baseurl }}/assets/slides/10-usability-studies.pdf)
+: [Usability studies]({{ site.baseurl }}/assets/slides/10_usability_studies.pdf)
 
     :  **Reading**{:.label} Chapter 10, Research Methods in Human-Computer Interaction, 2nd Edition: [Usability testing](https://search-library.ucsd.edu/permalink/01UCS_SDI/6p31js/cdi_elsevier_sciencedirect_doi_10_1016_B978_0_12_805390_4_00010_8)
