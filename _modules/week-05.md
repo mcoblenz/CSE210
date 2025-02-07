@@ -15,6 +15,6 @@ February 5
 : Midterm exam
 
 February 7
-: [Security]({{ site.baseurl }}/assets/12-security.pdf)
+: [Security]({{ site.baseurl }}/assets/slides/12-security.pdf)
 
     : **Project**{:.label .label-red} [Architecture diagrams](https://www.gradescope.com/courses/940938/assignments/5663327/)
