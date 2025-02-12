@@ -2,6 +2,11 @@
 title: Practical Software Engineering
 ---
 
+March 2
+:
+
+    : **Project**{:.label .label-red} [Individual team collaboration report](https://se-teams.goto.ucsd.edu)
+
 March 3
 : Discussion: Soul of a New Machine
 
@@ -17,4 +22,4 @@ March 5
 March 7
 : Program Analysis
 
-    : **Project**{:.label .label-red} [Individual team collaboration report](https://www.gradescope.com/courses/699955/assignments/3964150)
+    :
