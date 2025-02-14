@@ -13,6 +13,6 @@ February 12
       **Project**{:.label .label-red} Sprint 1
 
 February 14
-: Code Review
+: [Code Review]({{ site.baseurl }}/assets/slides/15-code-review.pdf)
 
-    :
+    : **Reading**{:.label} (optional) [Expectations, outcomes, and challenges of modern code review](https://ieeexplore.ieee.org/abstract/document/6606617)
