@@ -16,6 +16,6 @@ February 19
     : **Project**{:.label .label-red} Sprint 2
 
 February 21
-: Risk
+: [Risk]({{ site.baseurl }}/assets/slides/17-risk.pdf)
 
     :
