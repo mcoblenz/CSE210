@@ -10,8 +10,6 @@ February 23
 February 24
 : Internationalization (i18n), localization (l10n), and accessability (a11y)
 
-    : **Homework**{:.label .label-yellow} Usability study
-
 February 26
 : Teamwork
 
@@ -21,3 +19,5 @@ February 28
 : Privacy
 
     : Optional video: [The Definition of Differential Privacy](https://www.youtube.com/watch?v=lg-VhHlztqo)
+
+      **Homework**{:.label .label-yellow} [Usability study](https://www.gradescope.com/courses/940938/assignments/5833502)
