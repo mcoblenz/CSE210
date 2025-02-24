@@ -8,7 +8,7 @@ February 23
     : **Project**{:.label .label-red} [Individual team collaboration report](https://se-teams.goto.ucsd.edu)
 
 February 24
-: Internationalization (i18n), localization (l10n), and accessability (a11y)
+: [Internationalization (i18n), localization (l10n), and accessability (a11y)]({{ site.baseurl }}/assets/slides/18-internationalization.pdf)
 
 February 26
 : Teamwork
