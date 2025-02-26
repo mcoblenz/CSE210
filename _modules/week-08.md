@@ -11,7 +11,7 @@ February 24
 : [Internationalization (i18n), localization (l10n), and accessability (a11y)]({{ site.baseurl }}/assets/slides/18-internationalization.pdf)
 
 February 26
-: Teamwork
+: [Teamwork]]({{ site.baseurl }}/assets/slides/19-teamwork.pdf)
 
     : **Project**{:.label .label-red} Sprint 3
 
