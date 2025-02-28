@@ -11,7 +11,7 @@ February 17
 : **No class**{: .label .label-purple } (Presidents' Day)
 
 February 19
-: [Ethics]({{ site.baseurl }}/assets/slides/16-ethics.pdf)
+: [Ethics]({{ site.baseurl }}/assets/slides/16-Ethics.pdf)
 
     : **Project**{:.label .label-red} Sprint 2
 
