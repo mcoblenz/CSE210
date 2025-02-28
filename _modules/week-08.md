@@ -16,7 +16,7 @@ February 26
     : **Project**{:.label .label-red} Sprint 3
 
 February 28
-: Privacy
+: [Privacy]({{ site.baseurl }}/assets/slides/20-privacy.pdf)
 
     : Optional video: [The Definition of Differential Privacy](https://www.youtube.com/watch?v=lg-VhHlztqo)
 
