@@ -15,7 +15,7 @@ March 3
 March 5
 : What makes a great software engineer? Interviewing and hiring
 
-    : **Reading**{:.label} [What makes a great software engineer?](https://ieeexplore.ieee.org/abstract/document/71946)
+    : **Reading**{:.label} [What makes a great software engineer?](https://ieeexplore.ieee.org/abstract/document/7194618)
 
       **Project**{:.label .label-red} Sprint 4
 
