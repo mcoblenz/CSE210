@@ -13,7 +13,7 @@ March 3
     : **Homework**{:.label .label-yellow} [Soul of a New Machine response](https://www.gradescope.com/courses/940938/assignments/5816653/)
 
 March 5
-: What makes a great software engineer? Interviewing and hiring
+: [What makes a great software engineer? Interviewing and hiring]({{ site.baseurl }}/assets/slides/22-hiring.pdf)
 
     : **Reading**{:.label} [What makes a great software engineer?](https://ieeexplore.ieee.org/abstract/document/7194618)
 
