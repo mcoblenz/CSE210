@@ -11,7 +11,7 @@ March 10
 : Intellectual property: copyright, licensing, and patents
 
 March 12
-: TBD
+: Exam review (bring questions)
 
 March 14
 : Midterm 2
