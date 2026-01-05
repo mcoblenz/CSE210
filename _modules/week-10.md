@@ -1,19 +1,16 @@
 ---
-title: Demos
+title: Exam
 ---
 
-March 9
-: Report due
-
-    : **Project**{:.label .label-red} [Individual team collaboration report](https://se-teams.goto.ucsd.edu)
-
 March 10
-: [Intellectual property: copyright, licensing, and patents]({{ site.baseurl }}/assets/slides/24-intellectual-property.pdf)
+: Intellectual property: copyright, licensing, and patents
 
-March 12
-: Exam review (bring questions)
+March 11
+: Privacy
+
+    : Optional video: [The Definition of Differential Privacy](https://www.youtube.com/watch?v=lg-VhHlztqo)
 
 March 14
 : Midterm 2
 
-    : **Homework**{:.label .label-yellow} Individual Reflections
+    : **Homework**{:.label .label-yellow} Individual Reflection

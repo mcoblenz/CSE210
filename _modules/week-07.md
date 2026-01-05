@@ -3,19 +3,12 @@ title: Debugging and Teamwork
 ---
 
 February 16
-: Report due
-
-    : **Project**{:.label .label-red} [Individual team collaboration report](https://se-teams.goto.ucsd.edu)
-
-February 17
 : **No class**{: .label .label-purple } (Presidents' Day)
 
-February 19
-: [Ethics]({{ site.baseurl }}/assets/slides/16-Ethics.pdf)
+February 18
+: Design patterns 2
 
-    : **Project**{:.label .label-red} Sprint 2
+    : **Homework**{:.label .label-yellow} Property-based testing (deadline is tentative)
 
-February 21
-: [Risk]({{ site.baseurl }}/assets/slides/17-risk.pdf)
-
-    :
+February 20
+: Ethics
