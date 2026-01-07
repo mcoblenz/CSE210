@@ -24,11 +24,11 @@ We will be using [Piazza](http://www.piazza.com) for discussion; we will enroll 
 
 ## Schedule
 
-Class will be MWF 10:00 - 10:50. Class meets at 10 AM MWF in [Center Hall](https://map.concept3d.com/?id=1005#!m/163044) 115.
+Class will be MWF 11:00 - 11:50 in [Center Hall](https://map.concept3d.com/?id=1005#!m/163044) 105.
 
-A podcast of the class will be available in case students are sick or have unavoidable travel commitments on a small number of class days. However, in-class activities cannot be made up. Note that the lowest 10% of the in-class activities will be dropped, allowing you to miss up to 10% of classes without penalty.
+A podcast of the class will be available in case students are sick or have unavoidable travel commitments on a small number of class days.
 
-Students will present their projects in the final exam slot, which will be Friday, March 20 11:30 AM - 2:29 PM.
+Students will present their projects in the final exam slot, which will be Monday, March 16 11:30 AM - 2:29 PM.
 
 ## Staff meetings
 

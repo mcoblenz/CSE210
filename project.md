@@ -8,10 +8,6 @@ description: About the project
 
 Please see the Calendar for the due dates.
 
-Starting week 3, weekly individual reports will be due, summarizing individual contributions to the team project.
-
-At the end of each sprint, teams will submit sprint completion reports. These reports will summarize the tasks that were completed that sprint. They will also summarize the sprint retrospective meeting, describing what went well, what did not go well, and what changes the team will make for the next sprint. Teams must meet with their assigned TAs weekly to demo their progress.
-
 TAs will provide feedback to groups telling them to what extent they're on track in different categories. Example categories might include:
 
 - Implementation
@@ -21,19 +17,11 @@ TAs will provide feedback to groups telling them to what extent they're on track
 
 ### Project Topic
 
-Health and wellness are challenges for everyone. Your team should choose a health or wellness-related issue that addresses the needs of key stakeholders. Then, design a software system that could help. Possible topics could include:
-
-- Nutrition
-- Exercise motivation and tracking
-- Chronic condition management (e.g., diabetes, blood pressure, etc.)
-- Medication tracking
-- Meditation
-- Specific exercise training (e.g., yoga or other exercise activities)
-- Social connection
+This quarter's topic is _educational games_.
 
 ### Team and Project Organization
 
-Your team should follow an Agile process using scrum. Starting week 5, you will be responsible for one of the following roles:
+Your team should follow an Agile process using scrum. Starting with sprint 1, you will be responsible for one of the following roles:
 
 - Scrum master (one per week)
 - Development team member (allocate from the following as needed)
