@@ -26,6 +26,10 @@ schedule:
         start: 11:00 AM
         end: 11:50 AM
         location: CENTR 105
+      - name: Jacob's OH
+        start: 3:00 PM
+        end: 4:00 PM
+        location: CSE B275
   - name: Tuesday
   - name: Wednesday
     events:
