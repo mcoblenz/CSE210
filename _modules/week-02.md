@@ -14,9 +14,9 @@ January 14
 
     : **Reading**{:.label} Chapter 10, Research Methods in Human-Computer Interaction, 2nd Edition: [Usability testing](https://search-library.ucsd.edu/permalink/01UCS_SDI/6p31js/cdi_elsevier_sciencedirect_doi_10_1016_B978_0_12_805390_4_00010_8)
 
-      **Project**{:.label .label-red} Requirements proposal
+      **Project**{:.label .label-red} [Requirements proposal](https://www.gradescope.com/courses/1207661/assignments/7425135/)
 
-      **Project**{:.label .label-red} Team matching survey
+      **Project**{:.label .label-red} [Team matching survey](https://docs.google.com/forms/d/e/1FAIpQLSe00HWMl6CkW5xaNQRcc3JC_8Jfe7xFgP3wC7MKPri8cfYrwg/viewform?usp=dialog)
 
 January 16
 : [Testing]({{ site.baseurl }}/assets/slides/06-testing.pdf)
