@@ -9,6 +9,8 @@ January 12
 
       **Reading**{:.label} [A Spiral Model of Software Development](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=59) (also available in the Files section of Canvas)
 
+      [Reading response](https://www.gradescope.com/courses/1207661/assignments/7425416/)
+
 January 14
 : HCI 2: Usability studies, iteration
 
