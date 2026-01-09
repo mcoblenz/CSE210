@@ -13,6 +13,6 @@ January 7
     : **Reading**{:.label} [Requirements engineering for software and systems](https://search-library.ucsd.edu/permalink/01UCS_SDI/ld412s/alma9919487443206531), chapter 1; [Reading response](https://www.gradescope.com/courses/1207661/assignments/7381089)
 
 January 9
-: Requirements: specification
+: [Requirements: specification]({{ site.baseurl }}/assets/slides/03-requirements2.pdf)
 
     : **Reading**{:.label} [Requirements engineering for software and systems](https://search-library.ucsd.edu/permalink/01UCS_SDI/ld412s/alma9919487443206531), chapter 4. [Reading response](https://www.gradescope.com/courses/1207661/assignments/7400845)
