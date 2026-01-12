@@ -13,4 +13,4 @@ January 21
 January 23
 : Peer vision feedback
 
-    : **Project**{:.label .label-red} Vision document
+    : **Project**{:.label .label-red} [Vision document](https://www.gradescope.com/courses/1207661/assignments/7445883/)
