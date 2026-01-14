@@ -12,7 +12,7 @@ January 12
       [Reading response](https://www.gradescope.com/courses/1207661/assignments/7425416/)
 
 January 14
-: HCI 2: Usability studies, iteration
+: [HCI 2: Usability studies]({{ site.baseurl }}/assets/slides/05-usability_studies.pdf)
 
     : **Reading**{:.label} Chapter 10, Research Methods in Human-Computer Interaction, 2nd Edition: [Usability testing](https://search-library.ucsd.edu/permalink/01UCS_SDI/6p31js/cdi_elsevier_sciencedirect_doi_10_1016_B978_0_12_805390_4_00010_8)
 
@@ -30,5 +30,7 @@ January 16
       **Reading**{:.label} [An empirical study of the reliability of UNIX utilities](https://dl.acm.org/doi/10.1145/96267.96279)
 
       **Reading**{:.label} (optional) [Property-Based Testing in Practice](https://dl.acm.org/doi/pdf/10.1145/96267.96279)
+
+      [Reading response](https://www.gradescope.com/courses/1207661/assignments/7462285)
 
       Team assignments will be announced.
