@@ -6,9 +6,9 @@ January 19
 : **No class**{: .label .label-purple } MLK Day
 
 January 21
-: Architecture 1: event-driven programming.
+: [Architecture 1: event-driven programming]({{ site.baseurl }}/assets/slides/07-events.pdf)
 
-    : **Reading**{:.label} TBD
+    :
 
 January 23
 : Peer vision feedback
