@@ -41,12 +41,10 @@ Your team will meet with an assigned member of the course staff several times:
 ## Grading
 
 - 55% of your grade will be determined by your individual work, including your contributions to your team and your skills assessments. Your contributions will be assessed at the end of the quarter in two categories:
-
   - Technical contributions: to what extent has your technical work (writing code, designing software, writing documentation, writing tests, maintaining CI/CD systems) helped your team deliver great software?
   - Non-technical contributions: to what extent have you been a collaborative and effective team member? Have you delivered what you promised in a timely fashion, and communicated as needed when you were running late? Have you been an independent contributor (making decisions about your own tasks on your own), or even led others in design or implementation choices?
 
   You will also need to complete three _skills checks_ during the quarter. You may choose three of the following skills to demonstrate (each is worth 10% of your total grade):
-
   - Architecture and design: document your design using diagrams, justifying key design decisions.
   - Implementation: show that you write high-quality code that implements a significant feature.
   - Testing: show that you have developed a thorough test suite for a feature
@@ -75,8 +73,9 @@ The instructor has discretion to assign + and - grades within those ranges and t
 
 | Component                         | Weight |
 | --------------------------------- | ------ |
-| Reading responses                 | 5%     |
-| Property-based testing            | 5%     |
+| Vision (individual)               | 2%     |
+| Reading responses                 | 4%     |
+| Property-based testing            | 4%     |
 | Skills assessments (choose three) | 30%    |
 | Project reflection                | 5%     |
 | Your contribution to team success | 10%    |
