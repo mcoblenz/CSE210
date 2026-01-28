@@ -8,7 +8,7 @@ January 26
     : Reference: [Wikipedia](https://en.wikipedia.org/wiki/Model–view–controller)
 
 January 28
-: Architecture 3: views and diagrams
+: [Architecture 3: views and diagrams]({{ site.baseurl }}/assets/slides/10-arch-views.pdf)
 
     : **Reading**{:.label} [Documenting Software Architectures](https://search-library.ucsd.edu/permalink/01UCS_SDI/ld412s/alma9914816060706531), Part 1 introduction, chapter 1, and chapter 2 through 2.4.
 
