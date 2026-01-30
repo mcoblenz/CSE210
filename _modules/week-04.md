@@ -15,6 +15,6 @@ January 28
       [Reading response](https://www.gradescope.com/courses/1207661/assignments/7544188/)
 
 January 30
-: Process models
+: [Process models]({{ site.baseurl }}/assets/slides/11-process.pdf)
 
     : **Project**{:.label .label-red} [Mockups](https://www.gradescope.com/courses/1207661/assignments/7527788/)

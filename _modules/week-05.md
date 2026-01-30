@@ -11,7 +11,9 @@ February 2
 
       **Reading**{:.label} [Agile Manifesto](https://agilemanifesto.org/principles.html)
 
-      **Reading**{:.label} (tentative) [Ch. 2 of INCOSE Systems Engineering Handbook](https://search-library.ucsd.edu/permalink/01UCS_SDI/1vtf07t/cdi_askewsholts_vlebooks_9781119814313)
+      **Reading**{:.label} (optional) [Ch. 2 of INCOSE Systems Engineering Handbook](https://search-library.ucsd.edu/permalink/01UCS_SDI/1vtf07t/cdi_askewsholts_vlebooks_9781119814313)
+
+      [Reading response](https://www.gradescope.com/courses/1207661/assignments/7574343/)
 
 February 4
 : Midterm exam
