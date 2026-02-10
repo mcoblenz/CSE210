@@ -3,7 +3,7 @@ title: Design, Testing, and Security
 ---
 
 February 9
-: Code quality: OOP
+: [Code quality: OOP]({{ site.baseurl }}/assets/slides/13-good-code.pdf)
 
 February 11
 :
