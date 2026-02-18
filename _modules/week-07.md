@@ -6,9 +6,9 @@ February 16
 : **No class**{: .label .label-purple } (Presidents' Day)
 
 February 18
-: Design patterns 2
+: [Nielsen's Heuristics]({{ site.baseurl }}/assets/slides/16-heuristics.pdf)
 
-    : **Homework**{:.label .label-yellow} Property-based testing (deadline is tentative)
+    :
 
 February 20
 : Ethics
