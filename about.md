@@ -75,10 +75,9 @@ The instructor has discretion to assign + and - grades within those ranges and t
 | --------------------------------- | ------ |
 | Vision (individual)               | 2%     |
 | Reading responses                 | 4%     |
-| Property-based testing            | 4%     |
 | Skills assessments (choose three) | 30%    |
 | Project reflection                | 5%     |
-| Your contribution to team success | 10%    |
+| Your contribution to team success | 14%    |
 
 #### Oral exam
 
