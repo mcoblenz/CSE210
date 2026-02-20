@@ -11,4 +11,4 @@ February 18
     :
 
 February 20
-: Ethics
+: [Ethics]({{ site.baseurl }}/assets/slides/17-ethics.pdf)
