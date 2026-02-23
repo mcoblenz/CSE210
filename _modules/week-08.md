@@ -3,7 +3,7 @@ title: Practical Software Engineering
 ---
 
 February 23
-: Risk
+: [Risk]({{ site.baseurl }}/assets/slides/18-risk.pdf)
 
 February 25
 : Teamwork
