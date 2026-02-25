@@ -6,7 +6,7 @@ February 23
 : [Risk]({{ site.baseurl }}/assets/slides/18-risk.pdf)
 
 February 25
-: Teamwork
+: [Teamwork]({{ site.baseurl }}/assets/slides/19-teamwork.pdf)
 
 February 27
 : Security
