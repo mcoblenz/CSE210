@@ -5,7 +5,7 @@ title: Practical Software Engineering
 March 2
 : Discussion: Soul of a New Machine
 
-    : **Reading**{:.label} [Soul of a New Machine response](https://www.gradescope.com/courses/940938/assignments/5816653/)
+    : **Reading**{:.label} [Soul of a New Machine response](https://www.gradescope.com/courses/1207661/assignments/7746951)
 
 March 4
 : What makes a great software engineer? Interviewing and hiring
