@@ -9,7 +9,7 @@ February 25
 : [Teamwork]({{ site.baseurl }}/assets/slides/19-teamwork.pdf)
 
 February 27
-: Security
+: [Security]({{ site.baseurl }}/assets/slides/20-security.pdf)
 
     : **Project**{:.label .label-red} Sprint 2 ends
 
