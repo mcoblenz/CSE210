@@ -3,7 +3,7 @@ title: Practical Software Engineering
 ---
 
 March 2
-: Discussion: Soul of a New Machine
+: [Discussion: Soul of a New Machine]({{ site.baseurl }}/assets/slides/21-soul.pdf)
 
     : **Reading**{:.label} [Soul of a New Machine response](https://www.gradescope.com/courses/1207661/assignments/7746951)
 
