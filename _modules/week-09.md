@@ -13,7 +13,7 @@ March 4
     : **Reading**{:.label} [What makes a great software engineer?](https://ieeexplore.ieee.org/abstract/document/7194618)
 
 March 6
-: Program Analysis
+: [Program Analysis]({{ site.baseurl }}/assets/slides/23-program-analysis.pdf)
 
     : **Project**{:.label .label-red} Project complete (bug fixes only this week)
 
