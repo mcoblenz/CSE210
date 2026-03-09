@@ -3,7 +3,7 @@ title: Exam
 ---
 
 March 9
-: Intellectual property: copyright, licensing, and patents
+: [Intellectual property: copyright, licensing, and patents]({{ site.baseurl }}/assets/slides/24-intellectual-property.pdf)
 
 March 11
 : Privacy
